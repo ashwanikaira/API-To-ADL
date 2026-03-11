@@ -1,0 +1,11 @@
+transactionID,product,category,amount,date,region
+T1001,Laptop,Electronics,75000,2024-01-05,North
+T1002,Mobile Phone,Electronics,25000,2024-01-07,South
+T1003,Refrigerator,Home Appliances,45000,2024-01-10,West
+T1004,Air Conditioner,Home Appliances,52000,2024-01-12,East
+T1005,Headphones,Electronics,3000,2024-01-15,North
+T1006,Microwave,Home Appliances,12000,2024-01-18,South
+T1007,Television,Electronics,60000,2024-01-20,West
+T1008,Washing Machine,Home Appliances,35000,2024-01-22,East
+T1009,Tablet,Electronics,18000,2024-01-25,North
+T1010,Smart Watch,Electronics,9000,2024-01-28,South
